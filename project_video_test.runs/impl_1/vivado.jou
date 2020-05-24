@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2.1 (64-bit)
+# SW Build 2729669 on Thu Dec  5 04:49:17 MST 2019
+# IP Build 2729494 on Thu Dec  5 07:38:25 MST 2019
+# Start of session at: Sun May 24 21:07:31 2020
+# Process ID: 12384
+# Current directory: C:/Users/JCH/Desktop/project_video_test/project_video_test.runs/impl_1
+# Command line: vivado.exe -log main.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source main.tcl -notrace
+# Log file: C:/Users/JCH/Desktop/project_video_test/project_video_test.runs/impl_1/main.vdi
+# Journal file: C:/Users/JCH/Desktop/project_video_test/project_video_test.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source main.tcl -notrace

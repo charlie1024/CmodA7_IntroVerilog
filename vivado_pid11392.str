@@ -1,0 +1,114 @@
+/*
+
+Xilinx Vivado v2019.2.1 (64-bit) [Major: 2019, Minor: 2]
+SW Build: 2729669 on Thu Dec  5 04:49:17 MST 2019
+IP Build: 2729494 on Thu Dec  5 07:38:25 MST 2019
+
+Process ID (PID): 11392
+License: Customer
+
+Current time: 	Sun May 24 21:10:46 KST 2020
+Time zone: 	Korean Standard Time (Asia/Seoul)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 1920x1080
+Screen resolution (DPI): 125
+Available screens: 1
+Available disk space: 340 GB
+Default font: family=Segoe UI,name=Segoe UI,style=plain,size=15
+
+Java version: 	9.0.4 64-bit
+Java home: 	C:/Xilinx/Vivado/2019.2/tps/win64/jre9.0.4
+Java executable location: 	C:/Xilinx/Vivado/2019.2/tps/win64/jre9.0.4/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	JCH
+User home directory: C:/Users/JCH
+User working directory: C:/Users/JCH/Desktop/project_video_test/CmodA7_IntroVerilog
+User country: 	KR
+User language: 	ko
+User locale: 	ko_KR
+
+RDI_BASEROOT: C:/Xilinx/Vivado
+HDI_APPROOT: C:/Xilinx/Vivado/2019.2
+RDI_DATADIR: C:/Xilinx/Vivado/2019.2/data
+RDI_BINDIR: C:/Xilinx/Vivado/2019.2/bin
+
+Vivado preferences file location: C:/Users/JCH/AppData/Roaming/Xilinx/Vivado/2019.2/vivado.xml
+Vivado preferences directory: C:/Users/JCH/AppData/Roaming/Xilinx/Vivado/2019.2/
+Vivado layouts directory: C:/Users/JCH/AppData/Roaming/Xilinx/Vivado/2019.2/layouts
+PlanAhead jar file location: 	C:/Xilinx/Vivado/2019.2/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Users/JCH/Desktop/project_video_test/CmodA7_IntroVerilog/vivado.log
+Vivado journal file location: 	C:/Users/JCH/Desktop/project_video_test/CmodA7_IntroVerilog/vivado.jou
+Engine tmp dir: 	C:/Users/JCH/Desktop/project_video_test/CmodA7_IntroVerilog/.Xil/Vivado-11392-JCH-PC-GBF
+
+Xilinx Environment Variables
+----------------------------
+XILINX: C:/Xilinx/Vivado/2019.2/ids_lite/ISE
+XILINX_DSP: C:/Xilinx/Vivado/2019.2/ids_lite/ISE
+XILINX_PLANAHEAD: C:/Xilinx/Vivado/2019.2
+XILINX_SDK: C:/Xilinx/Vitis/2019.2
+XILINX_VITIS: C:/Xilinx/Vitis/2019.2
+XILINX_VIVADO: C:/Xilinx/Vivado/2019.2
+XILINX_VIVADO_HLS: C:/Xilinx/Vivado/2019.2
+
+
+GUI allocated memory:	154 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 653 MB
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// bB (cr):  Open Project : addNotify
+// Opening Vivado Project: C:\Users\JCH\Desktop\project_video_test\CmodA7_IntroVerilog\project_video_test.xpr. Version: Vivado v2019.2.1 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project C:/Users/JCH/Desktop/project_video_test/CmodA7_IntroVerilog/project_video_test.xpr 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_STATUS_CHANGE
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_STATUS_CHANGE
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project C:/Users/JCH/Desktop/project_video_test/CmodA7_IntroVerilog/project_video_test.xpr 
+// Tcl Message: INFO: [Project 1-313] Project file moved from 'C:/Users/JCH/Desktop/project_video_test' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 72 MB (+72878kb) [00:00:19]
+// [Engine Memory]: 786 MB (+672270kb) [00:00:19]
+// [GUI Memory]: 88 MB (+12983kb) [00:00:19]
+// [GUI Memory]: 113 MB (+21581kb) [00:00:20]
+// [GUI Memory]: 122 MB (+3564kb) [00:00:22]
+// [Engine Memory]: 832 MB (+7311kb) [00:00:22]
+// WARNING: HEventQueue.dispatchEvent() is taking  5476 ms.
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.2/data/ip'. 
+// HMemoryUtils.trashcanNow. Engine heap size: 837 MB. GUI used memory: 57 MB. Current time: 5/24/20, 9:10:54 PM KST
+// Tcl Message: open_project: Time (s): cpu = 00:00:24 ; elapsed = 00:00:09 . Memory (MB): peak = 861.461 ; gain = 208.086 
+// Project name: project_video_test; location: C:/Users/JCH/Desktop/project_video_test/CmodA7_IntroVerilog; part: xc7a35tcpg236-1
+dismissDialog("Open Project"); // bB (cr)
